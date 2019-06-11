@@ -1,2 +1,2 @@
-# Bypass-Admin-Password hacker
-Administrators password hacked
+# Bypass-Admin-Password-Hacker
+Administrators Password Hacked
